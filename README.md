@@ -207,12 +207,9 @@ The program includes comprehensive error checking:
 - Thread-safe atomic operations
 - Optimized I/O handling with batch processing
 
-## License
-
-This project is part of CS480 coursework and is intended for educational purposes.
-
 ## Contributing
 
 This is an academic project. For questions or issues, please contact the author.
 
 ---
+
